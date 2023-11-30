@@ -171,7 +171,6 @@
 - [Testing](testing.md)
   - [Test Modules](testing/unit-tests.md)
   - [Other Types of Tests](testing/other.md)
-  - [Useful Crates](testing/useful-crates.md)
   - [Compiler lints and Clippy](testing/lints.md)
   - [Exercise: Luhn Algorithm](testing/exercise.md)
     - [Solution](testing/solution.md)
