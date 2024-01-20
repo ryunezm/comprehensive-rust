@@ -2390,7 +2390,7 @@ msgid ""
 "html)."
 msgstr ""
 "Que las macros sean 'higiénicas' significa que no capturan "
-"accidentalmenteidentificadores del ámbito en el que se utilizan. En "
+"accidentalmente identificadores del ámbito en el que se utilizan. En "
 "realidad, las macros de Rust solo son [parcialmente higiénicas](https://"
 "veykril.github.io/tlborm/decl-macros/minutiae/hygiene.html)."
 
